@@ -16,18 +16,55 @@ Dive deep into diverse domains—from the enigmatic realms of **data structures*
 ### The CodeCraftClub Creed: Code, Conquer, Create 💻✨
 The CodeCraftClub is more than just a repository; it's a celebration of the craft. Here, every character counts, every function is a friend, and each algorithm is an adventure. So let's embark on this epic endeavor together, with **CodeCraftClub-Cheatsheets** as our chart and compass.
 
-## 📚 Table of Contents
-- [📃 Languages](#languages)
-  - [View cheatsheets](#view-languages-cheatsheets)
-- [📦 Backend](#backend)
-  - [View cheatsheets](#view-backend-cheatsheets)
-- [🌐 Frontend](#frontend)
-  - [View cheatsheets](#view-frontend-cheatsheets)
-- [🗃️ Databases](#databases)
-  - [View cheatsheets](#view-databases-cheatsheets)
-- [🔧 Tools](#tools)
-  - [View cheatsheets](#view-tools-cheatsheets)
+## 📃 Languages
+<details>
+  <summary>View cheatsheets</summary>
+  
+  - [Python Cheatsheet](path/to/python-cheatsheet.md)
+  - [JavaScript Cheatsheet](path/to/javascript-cheatsheet.md)
+  - [C++ Cheatsheet](path/to/cpp-cheatsheet.md)
+  <!-- Add other languages as needed -->
+</details>
 
+## 📦 Backend
+<details>
+  <summary>View cheatsheets</summary>
+  
+  - [Node.js Cheatsheet](path/to/nodejs-cheatsheet.md)
+  - [Java Cheatsheet](path/to/java-cheatsheet.md)
+  - [C# Cheatsheet](path/to/csharp-cheatsheet.md)
+  <!-- Add other backend technologies as needed -->
+</details>
+
+## 🌐 Frontend
+<details>
+  <summary>View cheatsheets</summary>
+  
+  - [React Cheatsheet](path/to/react-cheatsheet.md)
+  - [Angular Cheatsheet](path/to/angular-cheatsheet.md)
+  - [Vue.js Cheatsheet](path/to/vue-cheatsheet.md)
+  <!-- Add other frontend technologies as needed -->
+</details>
+
+## 🗃️ Databases
+<details>
+  <summary>View cheatsheets</summary>
+  
+  - [MySQL Cheatsheet](path/to/mysql-cheatsheet.md)
+  - [MongoDB Cheatsheet](path/to/mongodb-cheatsheet.md)
+  - [PostgreSQL Cheatsheet](path/to/postgresql-cheatsheet.md)
+  <!-- Add other database technologies as needed -->
+</details>
+
+## 🔧 Tools
+<details>
+  <summary>View cheatsheets</summary>
+  
+  - [Git Cheatsheet](path/to/git-cheatsheet.md)
+  - [Docker Cheatsheet](path/to/docker-cheatsheet.md)
+  - [Kubernetes Cheatsheet](path/to/kubernetes-cheatsheet.md)
+  <!-- Add other tools as needed -->
+</details>
 ---
 
 **Join us** as we navigate the nuances, tackle the tangles, and share the splendors of scripting. With these cheat sheets by your side, the world of programming is yours to conquer.
