@@ -2,11 +2,13 @@
 ![CodeCraftClub Cheatsheets Banner](path/to/your/banner-image.jpg)
 # Welcome to CodeCraftClub-Cheatsheets! 🚀
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/alan-babu-63b382232)
+[![Contributors](https://img.shields.io/github/contributors/Alan7149/CodeCraftClub-Cheatsheets.svg?style=flat-square)](https://github.com/Alan7149/CodeCraftClub-Cheatsheets/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Alan7149/CodeCraftClub-Cheatsheets.svg?style=flat-square)](https://github.com/Alan7149/CodeCraftClub-Cheatsheets/network/members)
+[![Stars](https://img.shields.io/github/stars/Alan7149/CodeCraftClub-Cheatsheets.svg?style=flat-square)](https://github.com/Alan7149/CodeCraftClub-Cheatsheets/stargazers)
+[![Issues](https://img.shields.io/github/issues/Alan7149/CodeCraftClub-Cheatsheets.svg?style=flat-square)](https://github.com/Alan7149/CodeCraftClub-Cheatsheets/issues)
+[![MIT License](https://img.shields.io/github/license/Alan7149/CodeCraftClub-Cheatsheets.svg?style=flat-square)](https://github.com/Alan7149/CodeCraftClub-Cheatsheets/blob/main/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/alan-babu-63b382232)
+
 
 ## Your Ultimate Coding Companion
 **CodeCraftClub-Cheatsheets** is your go-to sanctuary where the intricate tapestry of coding is unraveled. I'm your guide, a third-year guardian of the galaxy of code, here to share the cheat sheet chronicles—each one a compact codex of programming prowess.
