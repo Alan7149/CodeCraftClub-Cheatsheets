@@ -15,19 +15,18 @@ Dive deep into diverse domains—from the enigmatic realms of **data structures*
 ### The CodeCraftClub Creed: Code, Conquer, Create 💻✨
 The CodeCraftClub is more than just a repository; it's a celebration of the craft. Here, every character counts, every function is a friend, and each algorithm is an adventure. So let's embark on this epic endeavor together, with **CodeCraftClub-Cheatsheets** as our chart and compass.
 
-## Table of Contents
-- [Backend Technologies](#backend-technologies)
-  - [Python](#python)
-  - [Java](#java)
-  - [Node.js](#nodejs)
-- [Frontend Technologies](#frontend-technologies)
-  - [HTML](#html)
-  - [CSS](#css)
-  - [JavaScript](#javascript)
-- [Databases](#databases)
-  - [MySQL](#mysql)
-  - [MongoDB](#mongodb)
-  - [PostgreSQL](#postgresql)
+## 📚 Table of Contents
+- [📃 Languages](#languages)
+  - [View cheatsheets](#view-languages-cheatsheets)
+- [📦 Backend](#backend)
+  - [View cheatsheets](#view-backend-cheatsheets)
+- [🌐 Frontend](#frontend)
+  - [View cheatsheets](#view-frontend-cheatsheets)
+- [🗃️ Databases](#databases)
+  - [View cheatsheets](#view-databases-cheatsheets)
+- [🔧 Tools](#tools)
+  - [View cheatsheets](#view-tools-cheatsheets)
+
 ---
 
 **Join us** as we navigate the nuances, tackle the tangles, and share the splendors of scripting. With these cheat sheets by your side, the world of programming is yours to conquer.
