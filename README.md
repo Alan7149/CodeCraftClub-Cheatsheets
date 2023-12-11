@@ -91,13 +91,13 @@ The CodeCraftClub is more than just a repository; it's a celebration of the craf
   
   [🔝 Back to Top](#readme-top)
 </details>
----
 
 ## 👩‍💻👨‍💻 Contributors for the Cheatsheet
 
 <p align="center"><a href="https://github.com/Alan7149/CodeCraftClub-Cheatsheets/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Alan7149/CodeCraftClub-Cheatsheets" />
 </a></p>
+
 
 **Join us** as we navigate the nuances, tackle the tangles, and share the splendors of scripting. With these cheat sheets by your side, the world of programming is yours to conquer.
 
