@@ -35,8 +35,9 @@ Dive deep into diverse domains—from the enigmatic realms of **data structures*
 ### The CodeCraftClub Creed: Code, Conquer, Create 💻✨
 The CodeCraftClub is more than just a repository; it's a celebration of the craft. Here, every character counts, every function is a friend, and each algorithm is an adventure. So let's embark on this epic endeavor together, with **CodeCraftClub-Cheatsheets** as our chart and compass.
 
-## 📃 Languages
+## 📚 Table of Content
 
+### 📃 Languages
 <details>
   <summary>View cheatsheets</summary>
   
