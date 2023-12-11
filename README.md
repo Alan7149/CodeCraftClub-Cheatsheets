@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="LinkedIn">
   </a>
 </p>
-![CodeCraftClub Cheatsheets Banner](path/to/your/banner-image.jpg)
+
+![CodeCraftClub Cheatsheets Banner]()
 # Welcome to CodeCraftClub-Cheatsheets! 🚀
 
 ## Your Ultimate Coding Companion
