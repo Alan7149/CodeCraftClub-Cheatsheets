@@ -90,7 +90,6 @@ The CodeCraftClub is more than just a repository; it's a celebration of the craf
   - [Kubernetes Cheatsheet](path/to/kubernetes-cheatsheet.md)
   <!-- Add other tools as needed -->
   
-  [🔝 Back to Top](#readme-top)
 </details>
 
 ## 👩‍💻👨‍💻 Contributors for the Cheatsheet
@@ -103,3 +102,5 @@ The CodeCraftClub is more than just a repository; it's a celebration of the craf
 **Join us** as we navigate the nuances, tackle the tangles, and share the splendors of scripting. With these cheat sheets by your side, the world of programming is yours to conquer.
 
 **Happy Coding!**
+
+[🔝 Back to Top](#readme-top)
