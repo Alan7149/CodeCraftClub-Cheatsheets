@@ -22,7 +22,7 @@
 # Welcome to CodeCraftClub-Cheatsheets! 🚀
 
 ## Your Ultimate Coding Companion
-**CodeCraftClub-Cheatsheets** is your go-to sanctuary where the intricate tapestry of coding is unraveled. I'm your guide, a third-year guardian of the galaxy of code, here to share the cheat sheet chronicles—each one a compact codex of programming prowess.
+**CodeCraftClub-Cheatsheets** is your go-to sanctuary where the intricate tapestry of coding is unraveled. I'm your guide, a final-year guardian of the galaxy of code, here to share the cheat sheet chronicles—each one a compact codex of programming prowess.
 
 ### Forging the Path: The Journey Begins 🧙‍♂️
 Each sheet in our repository is a **beacon of knowledge**, crafted from the cumulative experiences of a student developer's journey. They stand as your swift savior amid the labyrinth of loops and lexicons. Tailored for both the budding novice and the seasoned scholar, these cheat sheets are your gateway to effortless understanding.
