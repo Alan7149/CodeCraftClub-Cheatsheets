@@ -18,6 +18,7 @@
 </p>
 
 ![CodeCraftClub Cheatsheets Banner]()
+
 # Welcome to CodeCraftClub-Cheatsheets! 🚀
 
 ## Your Ultimate Coding Companion
@@ -35,6 +36,8 @@ Dive deep into diverse domains—from the enigmatic realms of **data structures*
 ### The CodeCraftClub Creed: Code, Conquer, Create 💻✨
 The CodeCraftClub is more than just a repository; it's a celebration of the craft. Here, every character counts, every function is a friend, and each algorithm is an adventure. So let's embark on this epic endeavor together, with **CodeCraftClub-Cheatsheets** as our chart and compass.
 
+---
+
 ## 📚 Table of Content
 
 ### 📃 Languages
@@ -44,7 +47,14 @@ The CodeCraftClub is more than just a repository; it's a celebration of the craf
   - [Python Cheatsheet](path/to/python-cheatsheet.md)
   - [JavaScript Cheatsheet](path/to/javascript-cheatsheet.md)
   - [C++ Cheatsheet](path/to/cpp-cheatsheet.md)
-  <!-- Add other languages as needed -->
+  - [Java Cheatsheet](path/to/java-cheatsheet.md)
+  - [Go Cheatsheet](path/to/go-cheatsheet.md)
+  - [Ruby Cheatsheet](path/to/ruby-cheatsheet.md)
+  - [Rust Cheatsheet](path/to/rust-cheatsheet.md)
+  - [Kotlin Cheatsheet](path/to/kotlin-cheatsheet.md)
+  - [Swift Cheatsheet](path/to/swift-cheatsheet.md)
+  - [PHP Cheatsheet](path/to/php-cheatsheet.md)
+  <!-- Add more languages as needed -->
   
 </details>
 
@@ -53,8 +63,10 @@ The CodeCraftClub is more than just a repository; it's a celebration of the craf
   <summary>View cheatsheets</summary>
   
   - [Node.js Cheatsheet](path/to/nodejs-cheatsheet.md)
-  - [Java Cheatsheet](path/to/java-cheatsheet.md)
-  - [C# Cheatsheet](path/to/csharp-cheatsheet.md)
+  - [Django Cheatsheet](path/to/django-cheatsheet.md)
+  - [Spring Boot Cheatsheet](path/to/spring-boot-cheatsheet.md)
+  - [Flask Cheatsheet](path/to/flask-cheatsheet.md)
+  - [ASP.NET Cheatsheet](path/to/aspnet-cheatsheet.md)
   <!-- Add other backend technologies as needed -->
   
 </details>
@@ -66,6 +78,7 @@ The CodeCraftClub is more than just a repository; it's a celebration of the craf
   - [React Cheatsheet](path/to/react-cheatsheet.md)
   - [Angular Cheatsheet](path/to/angular-cheatsheet.md)
   - [Vue.js Cheatsheet](path/to/vue-cheatsheet.md)
+  - [Svelte Cheatsheet](path/to/svelte-cheatsheet.md)
   <!-- Add other frontend technologies as needed -->
   
 </details>
@@ -77,6 +90,7 @@ The CodeCraftClub is more than just a repository; it's a celebration of the craf
   - [MySQL Cheatsheet](path/to/mysql-cheatsheet.md)
   - [MongoDB Cheatsheet](path/to/mongodb-cheatsheet.md)
   - [PostgreSQL Cheatsheet](path/to/postgresql-cheatsheet.md)
+  - [Redis Cheatsheet](path/to/redis-cheatsheet.md)
   <!-- Add other database technologies as needed -->
   
 </details>
@@ -88,9 +102,13 @@ The CodeCraftClub is more than just a repository; it's a celebration of the craf
   - [Git Cheatsheet](path/to/git-cheatsheet.md)
   - [Docker Cheatsheet](path/to/docker-cheatsheet.md)
   - [Kubernetes Cheatsheet](path/to/kubernetes-cheatsheet.md)
+  - [CI/CD Tools Cheatsheet (Jenkins, GitLab)](path/to/cicd-tools-cheatsheet.md)
+  - [Terraform Cheatsheet](path/to/terraform-cheatsheet.md)
   <!-- Add other tools as needed -->
   
 </details>
+
+---
 
 ## 👩‍💻👨‍💻 Contributors for the Cheatsheet
 
