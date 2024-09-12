@@ -49,16 +49,16 @@ Let’s build a strong foundation together and take your coding skills to the ne
 <details>
   <summary>View cheatsheets</summary>
   
-  - [Python Cheatsheet](path/to/PythonCheatsheet.md)
-  - [JavaScript Cheatsheet](path/to/JavascriptCheatsheet.md)
-  - [C++ Cheatsheet](path/to/C++Cheatsheet.md)
-  - [Java Cheatsheet](path/to/JavaCheatsheet.md)
-  - [Go Cheatsheet](path/to/GoCheatsheet.md)
-  - [Ruby Cheatsheet](path/to/RubyCheatsheet.md)
-  - [Rust Cheatsheet](path/to/RustCheatsheet.md)
-  - [Kotlin Cheatsheet](path/to/KotlinCheatsheet.md)
-  - [Swift Cheatsheet](path/to/SwiftCheatsheet.md)
-  - [PHP Cheatsheet](path/to/PHPCheatsheet.md)
+  - [Python Cheatsheet](Languages/PythonCheatsheet.md)
+  - [JavaScript Cheatsheet](Languages/JavascriptCheatsheet.md)
+  - [C++ Cheatsheet](Languages/C++Cheatsheet.md)
+  - [Java Cheatsheet](Languages/JavaCheatsheet.md)
+  - [Go Cheatsheet](Languages/GoCheatsheet.md)
+  - [Ruby Cheatsheet](Languages/RubyCheatsheet.md)
+  - [Rust Cheatsheet](Languages/RustCheatsheet.md)
+  - [Kotlin Cheatsheet](Languages/KotlinCheatsheet.md)
+  - [Swift Cheatsheet](Languages/SwiftCheatsheet.md)
+  - [PHP Cheatsheet](Languages/PHPCheatsheet.md)
   <!-- Add more languages as needed -->
   
 </details>
@@ -67,11 +67,11 @@ Let’s build a strong foundation together and take your coding skills to the ne
 <details>
   <summary>View cheatsheets</summary>
   
-  - [Node.js Cheatsheet](path/to/Node.jsCheatsheet.md)
-  - [Django Cheatsheet](path/to/DjangoCheatsheet.md)
-  - [Spring Boot Cheatsheet](path/to/SpringBootCheatsheet.md)
-  - [Flask Cheatsheet](path/to/FlaskCheatsheet.md)
-  - [ASP.NET Cheatsheet](path/to/ASP.NETCheatsheet.md)
+  - [Node.js Cheatsheet](Backend/Node.jsCheatsheet.md)
+  - [Django Cheatsheet](Backend/DjangoCheatsheet.md)
+  - [Spring Boot Cheatsheet](Backend/SpringBootCheatsheet.md)
+  - [Flask Cheatsheet](Backend/FlaskCheatsheet.md)
+  - [ASP.NET Cheatsheet](Backend/ASP.NETCheatsheet.md)
   <!-- Add other backend technologies as needed -->
   
 </details>
@@ -80,10 +80,10 @@ Let’s build a strong foundation together and take your coding skills to the ne
 <details>
   <summary>View cheatsheets</summary>
   
-  - [React Cheatsheet](path/to/ReactCheatsheet.md)
-  - [Angular Cheatsheet](path/to/AngularCheatsheet.md)
-  - [Vue.js Cheatsheet](path/to/VueCheatsheet.md)
-  - [Svelte Cheatsheet](path/to/SvelteCheatsheet.md)
+  - [React Cheatsheet](Frontend/ReactCheatsheet.md)
+  - [Angular Cheatsheet](Frontend/AngularCheatsheet.md)
+  - [Vue.js Cheatsheet](Frontend/VueCheatsheet.md)
+  - [Svelte Cheatsheet](Frontend/SvelteCheatsheet.md)
   <!-- Add other frontend technologies as needed -->
   
 </details>
@@ -92,10 +92,10 @@ Let’s build a strong foundation together and take your coding skills to the ne
 <details>
   <summary>View cheatsheets</summary>
   
-  - [MySQL Cheatsheet](path/to/MySQLCheatsheet.md)
-  - [MongoDB Cheatsheet](path/to/MongoDBCheatsheet.md)
-  - [PostgreSQL Cheatsheet](path/to/PostgresSQLCheatsheet.md)
-  - [Redis Cheatsheet](path/to/RedisCheatsheet.md)
+  - [MySQL Cheatsheet](Databases/MySQLCheatsheet.md)
+  - [MongoDB Cheatsheet](Databases/MongoDBCheatsheet.md)
+  - [PostgreSQL Cheatsheet](Databases/PostgresSQLCheatsheet.md)
+  - [Redis Cheatsheet](Databases/RedisCheatsheet.md)
   <!-- Add other database technologies as needed -->
   
 </details>
@@ -104,10 +104,10 @@ Let’s build a strong foundation together and take your coding skills to the ne
 <details>
   <summary>View cheatsheets</summary>
   
-  - [Git Cheatsheet](path/to/GitCheatsheet.md)
-  - [Docker Cheatsheet](path/to/Dockercheatsheet.md)
-  - [Kubernetes Cheatsheet](path/to/kubernetescheatsheet.md)
-  - [Terraform Cheatsheet](path/to/terraformcheatsheet.md)
+  - [Git Cheatsheet](Tools/GitCheatsheet.md)
+  - [Docker Cheatsheet](Tools/Dockercheatsheet.md)
+  - [Kubernetes Cheatsheet](Tools/kubernetescheatsheet.md)
+  - [Terraform Cheatsheet](Tools/terraformcheatsheet.md)
   <!-- Add other tools as needed -->
   
 </details>
