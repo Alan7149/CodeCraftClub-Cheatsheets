@@ -49,16 +49,16 @@ Let’s build a strong foundation together and take your coding skills to the ne
 <details>
   <summary>View cheatsheets</summary>
   
-  - [Python Cheatsheet](path/to/python-cheatsheet.md)
-  - [JavaScript Cheatsheet](path/to/javascript-cheatsheet.md)
-  - [C++ Cheatsheet](path/to/cpp-cheatsheet.md)
-  - [Java Cheatsheet](path/to/java-cheatsheet.md)
-  - [Go Cheatsheet](path/to/go-cheatsheet.md)
-  - [Ruby Cheatsheet](path/to/ruby-cheatsheet.md)
-  - [Rust Cheatsheet](path/to/rust-cheatsheet.md)
-  - [Kotlin Cheatsheet](path/to/kotlin-cheatsheet.md)
-  - [Swift Cheatsheet](path/to/swift-cheatsheet.md)
-  - [PHP Cheatsheet](path/to/php-cheatsheet.md)
+  - [Python Cheatsheet](path/to/PythonCheatsheet.md)
+  - [JavaScript Cheatsheet](path/to/JavascriptCheatsheet.md)
+  - [C++ Cheatsheet](path/to/C++Cheatsheet.md)
+  - [Java Cheatsheet](path/to/JavaCheatsheet.md)
+  - [Go Cheatsheet](path/to/GoCheatsheet.md)
+  - [Ruby Cheatsheet](path/to/RubyCheatsheet.md)
+  - [Rust Cheatsheet](path/to/RustCheatsheet.md)
+  - [Kotlin Cheatsheet](path/to/KotlinCheatsheet.md)
+  - [Swift Cheatsheet](path/to/SwiftCheatsheet.md)
+  - [PHP Cheatsheet](path/to/PHPCheatsheet.md)
   <!-- Add more languages as needed -->
   
 </details>
